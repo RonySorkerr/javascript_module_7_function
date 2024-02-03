@@ -25,3 +25,21 @@ console.log('asfdadf')
 
 square(101);
 square(205);
+
+function addition (num1, num2){
+    console.log('your first number is : ', num1);
+    console.log('your second number is : ', num2);
+    const sum = num1 + num2;
+    console.log('your sum is : ', sum);
+}
+
+addition(45, 52);
+console.log('bla bla bla')
+addition(45, 52);
+addition(45, 52);
+console.log('bla bla bla')
+
+addition(45, 52);
+console.log('bla bla bla')
+
+addition(45, 52);
