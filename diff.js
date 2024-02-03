@@ -6,3 +6,5 @@
 const fahtersAge = 45;
 const myAge = 22;
 diff(fahtersAge, myAge);
+
+

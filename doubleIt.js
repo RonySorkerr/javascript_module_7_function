@@ -5,3 +5,4 @@ function doubleIt(income){
 
 const earn = 25000;
 doubleIt(earn);
+
